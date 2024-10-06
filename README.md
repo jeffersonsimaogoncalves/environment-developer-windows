@@ -1,6 +1,13 @@
 # Winget
 [Winget](https://winget.run/)
 
+# Browser
+
+## Install Brave
+```
+winget install --id Brave.Brave
+```
+
 # Tools
 
 ## Install Git
