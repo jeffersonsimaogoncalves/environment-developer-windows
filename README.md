@@ -18,6 +18,12 @@
 winget install --id Postman.Postman
 ```
 
+
+## Install WhatsApp
+```
+winget install --id WhatsApp.WhatsApp
+```
+
 ## Install Spotify
 ```
 winget install --id Spotify.Spotify
