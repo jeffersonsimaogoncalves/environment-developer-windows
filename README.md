@@ -125,6 +125,26 @@ winget install --id GitHub.GitHubDesktop
 
 # JetBrains
 
+## Custom version
+
+### Install PHPStorm 2022.2.4
+
+```
+winget install --id JetBrains.PHPStorm -v 2022.2.4
+```
+
+### Install DataGrip 2022.2.5
+
+```
+winget install --id JetBrains.DataGrip -v 2022.2.5
+```
+
+### Install WebStorm 2022.2.3
+
+```
+winget install --id JetBrains.WebStorm -v 2022.2.3
+```
+
 ## Install Aqua (Public Preview)
 
 ```
@@ -399,22 +419,4 @@ winget install --id JetBrains.dotTrace
 
 ```
 winget install --id JetBrains.dotUltimate
-```
-
-## Install PHPStorm 2022.2.4
-
-```
-winget install --id JetBrains.PHPStorm -v 2022.2.4
-```
-
-## Install DataGrip 2022.2.5
-
-```
-winget install --id JetBrains.DataGrip -v 2022.2.5
-```
-
-## Install WebStorm 2022.2.3
-
-```
-winget install --id JetBrains.WebStorm -v 2022.2.3
 ```
