@@ -20,7 +20,7 @@ winget install --id JetBrains.Toolbox
 ```
 winget install --id JetBrains.PHPStorm
 ```
-## Install PHPStorm 2022.2.4
+### Install PHPStorm 2022.2.4
 ```
 winget install --id JetBrains.PHPStorm -v 2022.2.4
 ```
@@ -29,7 +29,7 @@ winget install --id JetBrains.PHPStorm -v 2022.2.4
 ```
 winget install --id JetBrains.DataGrip
 ```
-## Install DataGrip 2022.2.5
+### Install DataGrip 2022.2.5
 ```
 winget install --id JetBrains.DataGrip -v 2022.2.5
 ```
@@ -38,7 +38,7 @@ winget install --id JetBrains.DataGrip -v 2022.2.5
 ```
 winget install --id JetBrains.WebStorm
 ```
-## Install WebStorm 2022.2.3
+### Install WebStorm 2022.2.3
 ```
 winget install --id JetBrains.WebStorm -v 2022.2.3
 ```
