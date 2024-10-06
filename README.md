@@ -7,7 +7,10 @@
 ```
 winget install --id Git.Git -e --source winget
 ```
-
+## Install PNPM
+```
+winget install --id pnpm.pnpm
+```
 ## Install GitHub Cli
 ```
 winget install --id GitHub.cli
