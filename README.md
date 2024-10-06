@@ -5,7 +5,11 @@
 
 ## Install Git
 ```
-winget install --id Git.Git -e --source winget
+winget install --id Git.Git
+```
+## Install Docker Desktop
+```
+winget install --id Docker.DockerDesktop
 ```
 ## Install PNPM
 ```
