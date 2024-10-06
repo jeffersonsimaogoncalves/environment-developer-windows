@@ -8,6 +8,11 @@
 winget install --id Postman.Postman
 ```
 
+## Install Bitvise SSH Client
+```
+winget install --id Bitvise.SSH.Client
+```
+
 ## Install Obsidian
 ```
 winget install --id Obsidian.Obsidian
