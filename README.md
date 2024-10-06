@@ -53,6 +53,11 @@ winget install --id Google.AndroidStudio
 winget install --id GitHub.cli
 ```
 
+## Install GitHub Desktop
+```
+winget install --id GitHub.GitHubDesktop
+```
+
 ---
 
 ## Install JetBrains Toolbox
