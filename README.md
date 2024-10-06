@@ -18,7 +18,6 @@
 winget install --id Postman.Postman
 ```
 
-
 ## Install WhatsApp
 ```
 winget install --id WhatsApp.WhatsApp
@@ -99,7 +98,7 @@ winget install --id GitHub.cli
 winget install --id GitHub.GitHubDesktop
 ```
 
----
+# JetBrains
 
 ## Install JetBrains Toolbox
 ```
