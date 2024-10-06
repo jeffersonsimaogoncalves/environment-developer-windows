@@ -11,10 +11,15 @@ winget install --id Git.Git -e --source winget
 ```
 winget install --id pnpm.pnpm
 ```
+## Install Laragon
+```
+winget install --id LeNgocKhoa.Laragon
+```
 ## Install GitHub Cli
 ```
 winget install --id GitHub.cli
 ```
+---
 ## Install JetBrains Toolbox
 ```
 winget install --id JetBrains.Toolbox
