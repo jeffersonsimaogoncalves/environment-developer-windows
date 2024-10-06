@@ -18,6 +18,11 @@
 winget install --id Postman.Postman
 ```
 
+## Install Spotify
+```
+winget install --id Spotify.Spotify
+```
+
 ## Install PowerShell 7
 ```
 winget install --id Microsoft.PowerShell.Preview
