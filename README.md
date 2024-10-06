@@ -8,10 +8,14 @@
 winget install --id Postman.Postman
 ```
 
+## Install PowerShell 7
+```
+winget install --id Microsoft.PowerShell.Preview
+```
 
 ## Install Notepad++
 ```
-winget install -e --id Notepad++.Notepad++
+winget install --id Notepad++.Notepad++
 ```
 
 ## Install Bitvise SSH Client
