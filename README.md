@@ -12,7 +12,10 @@ winget install --id Git.Git -e --source winget
 ```
 winget install --id GitHub.cli
 ```
-
+## Install JetBrains Toolbox
+```
+winget install --id JetBrains.Toolbox
+```
 ## Install PHPStorm
 ```
 winget install --id JetBrains.PHPStorm
