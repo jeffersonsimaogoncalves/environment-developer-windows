@@ -8,6 +8,12 @@
 winget install --id Postman.Postman
 ```
 
+
+## Install Notepad++
+```
+winget install -e --id Notepad++.Notepad++
+```
+
 ## Install Bitvise SSH Client
 ```
 winget install --id Bitvise.SSH.Client
