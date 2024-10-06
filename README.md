@@ -18,6 +18,10 @@ winget install --id Git.Git
 ```
 winget install --id Docker.DockerDesktop
 ```
+## Install HeidiSQL
+```
+winget install --id HeidiSQL.HeidiSQL
+```
 ## Install PNPM
 ```
 winget install --id pnpm.pnpm
