@@ -15,6 +15,10 @@ winget install --id pnpm.pnpm
 ```
 winget install --id LeNgocKhoa.Laragon
 ```
+## Install Android Studio
+```
+winget install --id Google.AndroidStudio
+```
 ## Install GitHub Cli
 ```
 winget install --id GitHub.cli
