@@ -18,6 +18,11 @@
 winget install --id Postman.Postman
 ```
 
+## Install Visual Studio Code
+```
+winget install --id Microsoft.VisualStudioCode
+```
+
 ## Install WhatsApp
 ```
 winget install --id WhatsApp.WhatsApp
