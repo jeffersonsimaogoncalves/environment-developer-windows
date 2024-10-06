@@ -3,6 +3,7 @@
 # Software
 [Winget](https://winget.run/)
 [Herd](https://herd.laravel.com/)
+[StackBricks](https://stackbricks.app/)
 
 # Tools
 
