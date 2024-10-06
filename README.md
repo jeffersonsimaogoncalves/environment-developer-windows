@@ -18,6 +18,11 @@ winget install --id Microsoft.PowerShell.Preview
 winget install --id Notepad++.Notepad++
 ```
 
+## Install ConEmu
+```
+winget install --id Maximus5.ConEmu
+```
+
 ## Install Bitvise SSH Client
 ```
 winget install --id Bitvise.SSH.Client
